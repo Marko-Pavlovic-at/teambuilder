@@ -33,3 +33,22 @@ body{
     flex-direction: column;
     align-items: center;
 }
+
+#input-form{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+#addBtn{
+    background-color: var(--ww-cyan-dim);
+    color: var(--ww-text);
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 2rem;
+}
+
+input{
+    background-color: var(--ww-bg-dark);
+    color: var(--ww-text-muted);
+}

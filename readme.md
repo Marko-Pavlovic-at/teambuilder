@@ -7,7 +7,8 @@
 
 
 Steps:
-- create html css and js basic structure and styling
+- create html css and js basic structure and styling link files DONE
+- create an input with a label and an add button style it DONE
 
 
 Theme: 
