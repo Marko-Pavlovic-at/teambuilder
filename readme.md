@@ -10,7 +10,8 @@ Steps:
 - create html css and js basic structure and styling link files DONE
 - create an input with a label and an add button style it DONE
 - grab dom elements input field and addbtn DONE
-- create an empty array and try to push something into it a string
+- create an empty array and try to push something into it a string DONE
+- make a function that takes the value from the input and renders it on screen DONE
 
 
 Theme: 
