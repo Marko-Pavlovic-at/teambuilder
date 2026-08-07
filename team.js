@@ -17,7 +17,12 @@ function render(){
     //output.innerHTML += memberInput.value;
     members.forEach((member) =>{
         
-        output.innerHTML += `<p>${member}</p>`
+        output.innerHTML += `
+        
+        <p>${member}</p>
+        <button class=delBtn>Remove</button>
+        
+        `
     })
 
 }

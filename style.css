@@ -52,3 +52,17 @@ input{
     background-color: var(--ww-bg-dark);
     color: var(--ww-text-muted);
 }
+
+#output{
+    padding: 3rem;
+    display: flex;
+    gap: 3rem;
+}
+
+.delBtn{
+        background-color: var(--ww-danger);
+    color: var(--ww-text);
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 1rem;
+}

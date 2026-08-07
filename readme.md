@@ -12,7 +12,7 @@ Steps:
 - grab dom elements input field and addbtn DONE
 - create an empty array and try to push something into it a string DONE
 - make a function that takes the value from the input and renders it on screen DONE
-
+- add a delete button and give it an id
 
 Theme: 
 A Teambuilder wuwa themed
