@@ -56,13 +56,23 @@ input{
 #output{
     padding: 3rem;
     display: flex;
-    gap: 3rem;
+    flex-direction: column;
+    border: 1px solid var(--ww-amber);
+    gap: 1rem;
+    
 }
 
 .delBtn{
         background-color: var(--ww-danger);
     color: var(--ww-text);
     font-size: 1rem;
+    height: 2.5rem;
     font-weight: 700;
     border-radius: 1rem;
+}
+
+.teamBox{
+    display: flex;
+    gap: 2rem;
+    
 }
